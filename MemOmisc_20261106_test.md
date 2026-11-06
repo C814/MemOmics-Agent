@@ -1,8 +1,12 @@
 # MemOmisc_20261106_test — Windows 测试包
 
-发布状态：**本地 ZIP 已构建并校验；GitHub Release 附件尚未上传，当前暂无可用下载链接。**
+发布状态：**测试 Release 已发布；远端 ZIP 大小和 SHA-256 与本地审核成品一致。**
 
-本 PR 记录测试包的内容和校验值。ZIP 超过普通 Git 单文件限制，将作为本仓库的测试 Release 附件分发，不纳入 Git 历史。附件上传并验证后补充下载链接，再将 PR 转为待评审。
+- [下载 ZIP](https://github.com/C814/MemOmics-Agent/releases/download/test-20261106/MemOmisc_20261106_test.zip)
+- [SHA-256 校验文件](https://github.com/C814/MemOmics-Agent/releases/download/test-20261106/MemOmisc_20261106_test.zip.sha256)
+- [测试 Release](https://github.com/C814/MemOmics-Agent/releases/tag/test-20261106)
+
+本 PR 记录测试包的内容、下载地址和校验值。ZIP 已作为本仓库的预发布 Release 附件分发，不纳入 Git 历史。GitHub 返回的附件状态为 uploaded，大小和 SHA-256 均已核对。
 
 | 项目 | 值 |
 |---|---|
